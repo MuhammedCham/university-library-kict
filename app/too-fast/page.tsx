@@ -7,7 +7,7 @@ const Page = () => {
         Awhoa, Slow Down There, Speedy!
       </h1>
       <p className="text-light-400 mt-3 max-w-xl text-center">
-        Looks like you&apos; been little too eager, we&aps;ve put a temporary
+        Looks like you&apos;ve been little too eager, we&apos;ve put a temporary
         pause on your excitement. Chill for a bit, and try again shortly.
       </p>
     </main>
